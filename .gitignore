@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Folder watcher runtime folders
+input/
+output/
+
+# OS files
+.DS_Store
+Thumbs.db

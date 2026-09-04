@@ -1,0 +1,5 @@
+rembg
+pillow
+onnxruntime
+tkinterdnd2
+pyinstaller
