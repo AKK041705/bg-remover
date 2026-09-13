@@ -3,3 +3,4 @@ pillow
 onnxruntime
 tkinterdnd2
 pyinstaller
+opencv-contrib-python
